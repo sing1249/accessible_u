@@ -85,3 +85,7 @@ a:hover, a:focus, input:focus, button:focus {
   outline-offset: 2px; 
   border-color: initial;
 }
+
+label .required {
+	color: red;
+}
