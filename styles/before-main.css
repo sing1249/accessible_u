@@ -81,7 +81,7 @@ a:hover {
  *
  */
 a:hover, a:focus, input:focus, button:focus {
-  outline: 2px solid #1E90FF;
+  outline: 2px solid #005fcc;
   outline-offset: 2px; 
   border-color: initial;
 }
