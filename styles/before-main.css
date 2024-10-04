@@ -83,5 +83,5 @@ a:hover {
 a:hover, a:focus, input:focus, button:focus {
   outline: 2px solid #1E90FF;
   outline-offset: 1px; 
-  border-color: initial;
+  border-color: black;
 }
